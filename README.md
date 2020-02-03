@@ -22,7 +22,7 @@ Esse desafio tem como objetivo testar seu domínio sobre Desenvolvimento Full St
 - O front-end deve conter 3 telas simples para exibição reativa dos dados (Dashboard, Pedidos e Clientes). Não se preocupe com a estilização, não será um critério de avaliação. Certifique-se apenas que as informações estejam legíveis e as ações necessárias estejam disponíveis. Sugerimos utilizamos algum framework CSS (ex.: Bootstrap, Bulma, Tailwind, etc.) para facilitar o trabalho. **Exemplo** de tela para Dashboard:
 
 <p align="center">
-  <img src="https://i.imgur.com/qHPJ8NO.png" width="600">
+  <img src="https://i.imgur.com/tqrPz2F.png" width="600">
 </p>
 
 ### Back-end
