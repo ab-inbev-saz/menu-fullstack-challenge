@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://menu.com.vc/media/store/logo/websites/1/Imagem1.png" width="200">
+  <img src="https://assets.menu.com.br/media/logo/websites/1/logo.menu.com.mascara.png" width="200">
 </p>
 
-# Desafio Full Stack
+# Desafio Engenheiro de Software Menu
 
 Esse desafio tem como objetivo testar seu domínio sobre Desenvolvimento Full Stack: organização, boas práticas, APIs, conhecimento em frameworks e suas tecnologias.
 
@@ -11,8 +11,8 @@ Esse desafio tem como objetivo testar seu domínio sobre Desenvolvimento Full St
 - Para expôr seus endpoints utilize de preferência um framework web simples e leve;
 - Não utilize boilerplates, gostamos de ver como você organiza seu código;
 - Fique a vontade para escolher o banco de dados que achar melhor;
-- Utilize uma das seguintes linguagens no back-end: PHP, Python ou NodeJS;
-- Utilize um dos seguintes frameworks/libs no front-end: ReactJS ou VueJS;
+- Utilize uma das seguintes linguagens no back-end: PHP ou Python;
+- Utilize o framework que se sentir mais confortável para front-end;
 - Dockerize seu ambiente. Isso facilitará para quem está corrigindo seu teste.
 
 ## O desafio
